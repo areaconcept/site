@@ -1,11 +1,11 @@
 ---
-title: "My First Post"
+title: "Our First Course will arrive here soon"
 date: 2023-08-01T14:19:15+03:00
-draft: true
+draft: false
 ---
 
-## Introduction
+## Welcome!
 
-This is **bold** text, and this is *emphasized* text.
+**This is** a home for *best* courses for digital art available!
 
-Visit the [Hugo](https://gohugo.io) website!
+Visit the [Area Concept School](https://areaconcept.eu.org) website!

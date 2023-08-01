@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Area Concept School</title>
+    <link>https://areaconcept.eu.org/posts/</link>
+    <description>Recent content in Posts on Area Concept School</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 14:19:15 +0300</lastBuildDate><atom:link href="https://areaconcept.eu.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our First Course will arrive here soon</title>
+      <link>https://areaconcept.eu.org/posts/my-first-post/</link>
+      <pubDate>Tue, 01 Aug 2023 14:19:15 +0300</pubDate>
+      
+      <guid>https://areaconcept.eu.org/posts/my-first-post/</guid>
+      <description>Welcome! This is a home for best courses for digital art available!
+Visit the Area Concept School website!</description>
+    </item>
+    
+  </channel>
+</rss>
