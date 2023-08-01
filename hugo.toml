@@ -2,3 +2,8 @@ baseURL = 'https://areaconcept.eu.org/'
 languageCode = 'en-us'
 title = 'Area Concept School'
 theme = 'ananke'
+
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/ArConSchool"
