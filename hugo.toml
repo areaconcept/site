@@ -8,3 +8,7 @@ googleAnalytics = "G-749R9984YW"
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/Area_Concept"
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@AreaConceptSchool"
+
