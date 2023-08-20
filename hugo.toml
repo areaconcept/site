@@ -28,4 +28,4 @@ url = "https://twitter.com/Area_Concept"
 [params]
 
 recent_posts_number = 9
-favicon = "favicon.ico"
+favicon = "/images/favicon.ico"
