@@ -1,20 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Area Concept School</title>
+    <title>Lessons on Area Concept School</title>
     <link>https://areaconcept.eu.org/posts/</link>
-    <description>Recent content in Posts on Area Concept School</description>
+    <description>Recent content in Lessons on Area Concept School</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 14:19:15 +0300</lastBuildDate><atom:link href="https://areaconcept.eu.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://areaconcept.eu.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Our First Course will arrive here soon</title>
-      <link>https://areaconcept.eu.org/posts/my-first-post/</link>
-      <pubDate>Tue, 01 Aug 2023 14:19:15 +0300</pubDate>
+      <title>Lesson I: Introduction to Photoshop</title>
+      <link>https://areaconcept.eu.org/posts/lesson-1/</link>
+      <pubDate>Sat, 19 Aug 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://areaconcept.eu.org/posts/my-first-post/</guid>
-      <description>Welcome! This is a home for best courses for digital art available!
-Visit the Area Concept School website!</description>
+      <guid>https://areaconcept.eu.org/posts/lesson-1/</guid>
+      <description>Available now!
+In lesson 1 - Introduction to Photoshop, you will learn:
+Program interface and important shortcuts How to use layers and their properties How to use lasso tool to paint quickly How to use brushes and gradients Also we will do basic figures painting </description>
+    </item>
+    
+    <item>
+      <title>Lesson II: Value and Composition</title>
+      <link>https://areaconcept.eu.org/posts/lesson-2/</link>
+      <pubDate>Fri, 18 Aug 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://areaconcept.eu.org/posts/lesson-2/</guid>
+      <description>Available now!
+In Lesson 2 - Value and Composition, you will learn:
+What is the Value and why it is important Basic rules and patterns for the Composition How Masters used that principles in their artworks And we will do bunch of own composition thumbnails </description>
+    </item>
+    
+    <item>
+      <title>Lesson III: Lighting and Shadows</title>
+      <link>https://areaconcept.eu.org/posts/lesson-3/</link>
+      <pubDate>Thu, 17 Aug 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://areaconcept.eu.org/posts/lesson-3/</guid>
+      <description>Available now!
+In Lesson 3 - Lighting, you will learn:
+Basics of lighting theory and key concepts for the artist Different lighting scenarios and their key elements Drawing basic forms with different shadow types We will sketch more advanced forms like bridges and jugs Using colored lighting and changing light conditions with Photoshop layers </description>
+    </item>
+    
+    <item>
+      <title>Lesson IV: Colors!</title>
+      <link>https://areaconcept.eu.org/posts/lesson-4/</link>
+      <pubDate>Wed, 16 Aug 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://areaconcept.eu.org/posts/lesson-4/</guid>
+      <description>Coming soon!
+In Lesson 4 - Colors!, you will learn:
+How Photoshop color models and tools work What color palettes we can find in the nature Color wheel and color schemes Color phenomenons Psychology of colors and colors for interiors Painting colors and shadows impressionist way </description>
+    </item>
+    
+    <item>
+      <title>Lesson V: Materials</title>
+      <link>https://areaconcept.eu.org/posts/lesson-5/</link>
+      <pubDate>Tue, 15 Aug 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://areaconcept.eu.org/posts/lesson-5/</guid>
+      <description>Late 2023.
+In Lesson 5 - Materials, you will learn:
+How to paint plastic and metals What is reflection and refraction How to make mirror and water reflections How to deal with translucency How to paint complex materials like car paints </description>
+    </item>
+    
+    <item>
+      <title>Lesson VI: Perspective</title>
+      <link>https://areaconcept.eu.org/posts/lesson-6/</link>
+      <pubDate>Mon, 14 Aug 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://areaconcept.eu.org/posts/lesson-6/</guid>
+      <description>Late 2023.
+In Lesson 6 - Perspective, you will learn:
+1,2 and 3 points perspective make perspective grids for interiors and exteriors examples of street architecture construction examples of interior design with furniture </description>
+    </item>
+    
+    <item>
+      <title>Lesson VII: Details and Background</title>
+      <link>https://areaconcept.eu.org/posts/lesson-7/</link>
+      <pubDate>Sun, 13 Aug 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://areaconcept.eu.org/posts/lesson-7/</guid>
+      <description>Early 2024.
+In Lesson 7 - Details and Background, you will learn:
+Sun, skies and clouds Mountains, rocks and ground Parks, trees, bushes and fields Seascapes and water Technics and vehicles People figures </description>
+    </item>
+    
+    <item>
+      <title>Lesson VIII: Fantastic Concept Art</title>
+      <link>https://areaconcept.eu.org/posts/lesson-8/</link>
+      <pubDate>Sat, 12 Aug 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://areaconcept.eu.org/posts/lesson-8/</guid>
+      <description>Early 2024.
+In Lesson 8 - Fantastic Concept Art, you will learn:
+How to create new forms and objects in a fantasy or sci-fi style, How to use briefs, references and idea catching techniques, What are common elements of style in architecture and landscapes, How to draw fantasy buildings How to quickly present your ideas </description>
     </item>
     
   </channel>

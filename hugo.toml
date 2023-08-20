@@ -3,12 +3,28 @@ languageCode = 'en-us'
 title = 'Area Concept School'
 theme = 'ananke'
 
+Paginate = 9
 googleAnalytics = "G-749R9984YW"
+enableRobotsTXT = true
 
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@AreaConceptSchool"
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://instagram.com/popov3dx"
+[[params.ananke_socials]]
+name = "tiktok"
+url = "https://www.tiktok.com/@Area_Concept"
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/areaconcept.school"
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/Area_Concept"
 [[params.ananke_socials]]
-name = "youtube"
-url = "https://www.youtube.com/@AreaConceptSchool"
 
+
+[params]
+
+recent_posts_number = 9
