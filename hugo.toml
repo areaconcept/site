@@ -7,6 +7,8 @@ Paginate = 9
 googleAnalytics = "G-749R9984YW"
 enableRobotsTXT = true
 
+disableKinds = ['sitemap']
+
 [[params.ananke_socials]]
 name = "youtube"
 url = "https://www.youtube.com/@AreaConceptSchool"
@@ -26,6 +28,5 @@ url = "https://twitter.com/Area_Concept"
 
 
 [params]
-
 recent_posts_number = 9
 favicon = "/images/favicon.ico"
