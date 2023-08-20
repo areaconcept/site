@@ -8,7 +8,9 @@ cascade:
   featured_image: '/images/torii.jpg'
 ---
 Welcome to Area Concept School! 
-Get more details about our lessons below.
+Get more details about all lessons below.
+
+{{< youtube RBn-5PdgL0E >}}
 
 Then [Enroll on Udemy](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=SUPERPRICE2000)
 and get fantastic discount!
