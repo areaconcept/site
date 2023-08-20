@@ -5,7 +5,7 @@ theme = 'ananke'
 
 Paginate = 9
 googleAnalytics = "G-749R9984YW"
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 disableKinds = ['sitemap']
 
