@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://areaconcept.eu.org//mysitemap.xml
+Sitemap: https://areaconcept.eu.org//sitemap.txt
