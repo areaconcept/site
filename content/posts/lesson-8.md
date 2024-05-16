@@ -7,7 +7,7 @@ title: "Lesson VIII: Fantastic Concept Art"
 read_more_copy: "Find more about the lesson"
 disable_share: false
 ---
-[Early 2024.](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
+[Late 2024.](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
 
 In Lesson 8 - Fantastic Concept Art, you will learn:
 
