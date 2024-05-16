@@ -6,7 +6,7 @@ tags: ["curriculum"]
 title: "Lesson IV: Colors!"
 read_more_copy: "Find more about the lesson"
 ---
-[Coming soon!](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=SUPERPRICE2000)
+[Coming soon!](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
 
 In Lesson 4 - Colors!, you will learn:
 
