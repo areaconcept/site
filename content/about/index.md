@@ -8,7 +8,7 @@ menu:
 ---
 {{< figure src="/images/clouds.jpg" title="Illustration from 7th Lesson of the course (release in 2024)" >}}
 
-[_Digital Painting Basics in Photoshop_](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=SUPERPRICE2000) is online class teached by Ivan Popov, digital artist, designer and instructor.
+[_Digital Painting Basics in Photoshop_](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K) is online class teached by Ivan Popov, digital artist, designer and instructor.
 
 First part of the course was published in August 2023 on Udemy. And then became available on other digital art marketplaces.
 
