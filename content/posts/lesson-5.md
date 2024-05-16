@@ -6,7 +6,7 @@ tags: ["curriculum"]
 title: "Lesson V: Materials"
 read_more_copy: "Find more about the lesson"
 ---
-[Late 2023.](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
+[Coming soon!](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
 
 In Lesson 5 - Materials, you will learn:
 
