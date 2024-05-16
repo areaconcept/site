@@ -12,5 +12,5 @@ Get more details about all lessons below.
 
 {{< youtube RBn-5PdgL0E >}}
 
-Then [Enroll on Udemy](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=SUPERPRICE2000)
+Then [Enroll on Udemy](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
 and get fantastic discount!
