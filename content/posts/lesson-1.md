@@ -6,7 +6,7 @@ tags: ["curriculum"]
 title: "Lesson I: Introduction to Photoshop"
 read_more_copy: "Find more about the lesson"
 ---
-[Available now!](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=SUPERPRICE2000)
+[Available now!](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
 
 In lesson 1 - Introduction to Photoshop, you will learn:
 
