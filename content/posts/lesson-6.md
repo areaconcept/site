@@ -7,7 +7,7 @@ title: "Lesson VI: Perspective"
 read_more_copy: "Find more about the lesson"
 disable_share: false
 ---
-[Late 2023.](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
+[Late 2024.](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
 
 In Lesson 6 - Perspective, you will learn:
 
