@@ -7,7 +7,7 @@ title: "Lesson VII: Details and Background"
 read_more_copy: "Find more about the lesson"
 disable_share: false
 ---
-[Early 2024.](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=SUPERPRICE2000)
+[Early 2024.](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
 
 In Lesson 7 - Details and Background, you will learn:
 
