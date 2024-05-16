@@ -6,7 +6,7 @@ tags: ["curriculum"]
 title: "Lesson III: Lighting and Shadows"
 read_more_copy: "Find more about the lesson"
 ---
-[Available now!](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=SUPERPRICE2000)
+[Available now!](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
 
 In Lesson 3 - Lighting, you will learn:
 
