@@ -6,7 +6,7 @@ tags: ["curriculum"]
 title: "Lesson II: Value and Composition"
 read_more_copy: "Find more about the lesson"
 ---
-[Available now!](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=SUPERPRICE2000)
+[Available now!](https://www.udemy.com/course/digital-painting-basics-in-adobe-photoshop/?couponCode=MEGASALE2K)
 
 In Lesson 2 - Value and Composition, you will learn:
 
